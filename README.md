@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio del modulo 0 del curso de Soy Henry
+prueba de como crear un repositorio y guardarlo en el escritorio del pc 
